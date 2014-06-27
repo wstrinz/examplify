@@ -1,7 +1,7 @@
 RDF Examplify
 =============
 
-For generating Examples of RDF Graphs
+For generating examples of RDF Graphs
 
 Planned workflow:
   1. Write for your example (in turtle and maybe others)
